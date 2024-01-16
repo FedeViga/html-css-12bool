@@ -1,0 +1,65 @@
+.container {
+    max-width: 1080px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.row {
+    width: 100%;
+}
+
+[class*="col-"] {
+    height: 30px;
+}
+
+[class*="bg-"] {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-black {
+    background-color: #2B2B2B;
+}
+
+.bg-red {
+    background-color: #FB0102;
+}
+
+.bg-pink {
+    background-color: #FED2B5;
+}
+
+.bg-lightbrown {
+    background-color: #CE863E;
+}
+
+.bg-lightblue {
+    background-color: #04BDFD;
+}
+
+.bg-blue {
+    background-color: #004ED4;
+}
+
+.bg-brown {
+    background-color: #8B4512;
+}
+
+.bg-gray {
+    background-color: #808080;
+}
+
+.bg-lightgray {
+    background-color: #DCDCDC;
+}
+
+.bg-darkgreen {
+    background-color: #00403F;
+}
+
+.bg-yellow {
+    background-color: #FF8F22;
+}
