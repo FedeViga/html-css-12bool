@@ -39,12 +39,20 @@ body {
 /*******************************
         MODIFICATORI FLEX
 *******************************/
+.flex {
+    display: flex;
+}
+
 .j-center {
     justify-content: center;
 }
 
 .j-end {
     justify-content: flex-end;
+}
+
+.j-around {
+    justify-content: space-around;
 }
 
 .j-between {
