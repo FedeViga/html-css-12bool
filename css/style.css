@@ -4,13 +4,10 @@
     color: white;
     text-align: center;
     padding: 20px;
-    height: 60px;
-}
-
-.row {
     min-height: 60px;
     height: auto;
 }
+
 .row .row [class*="col-"] {
     background-color: #00E165;
     border-color: #006CFA;
